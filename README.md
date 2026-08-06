@@ -1,4 +1,4 @@
-# TrailerTheme
+# TrailerTheme – Trailer & Theme Song Downloader for Emby/Jellyfin/Plex Windows
 
 <p align="center">
   <img src="screenshots/00-hero-trailertheme.png" alt="TrailerTheme" width="900">
