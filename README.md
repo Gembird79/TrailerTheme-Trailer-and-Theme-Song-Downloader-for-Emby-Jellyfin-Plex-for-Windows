@@ -1,4 +1,4 @@
-# TrailerTheme – Trailer & Theme Song Downloader for Emby/Jellyfin/Plex Windows
+# TrailerTheme – Trailer & Theme Song Downloader for Emby/Jellyfin/Plex
 
 <p align="center">
   <img src="screenshots/00-hero-trailertheme.png" alt="TrailerTheme" width="900">
@@ -10,22 +10,40 @@
   <img src="screenshots/02-icon-pro-256.png" alt="TrailerTheme Pro Icon" width="96">
 </p>
 
-**Trailer & Theme-Songs for Emby / Jellyfin** — Windows app (Closed Source).  
-**Trailer & Theme-Songs für Emby / Jellyfin** — Windows-App (Closed Source).
+**Trailer & Theme-Songs for Emby / Jellyfin / Plex** — free Windows app (open source, MIT).  
+**Trailer & Theme-Songs für Emby / Jellyfin / Plex** — kostenlose Windows-App (Open Source, MIT).
 
-This repository publishes **installers and product screenshots only** — **no source code**.  
-Dieses Repository enthält **nur Installer und Produktbilder** — **keinen Quellcode**.
+**No license key. No trial limit. All features unlocked.**  
+**Kein Lizenzschlüssel. Kein Testkontingent. Alle Funktionen freigeschaltet.**
+
+This repository publishes **installers and product screenshots**.  
+Dieses Repository enthält **Installer und Produktbilder**.
+
+Optional: support development with a PayPal donation (in-app **Support** tab).  
+Optional: Entwicklung per PayPal-Spende unterstützen (Tab **Support** in der App).
 
 ---
 
 ## Download
 
-Latest Windows setup:
+Latest release: **[v1.1.0](https://github.com/Gembird79/TrailerTheme-Trailer-and-Theme-Song-Downloader-for-Emby-Jellyfin-Plex-for-Windows/releases/tag/v1.1.0)**
 
-**[Releases / Downloads](https://github.com/Gembird79/TrailerTheme-Releases/releases)**
+All versions: **[Releases / Downloads](https://github.com/Gembird79/TrailerTheme-Trailer-and-Theme-Song-Downloader-for-Emby-Jellyfin-Plex-for-Windows/releases)**
 
-File name example: `TrailerTheme-Setup-1.0.0-win64.exe`  
-(Windows installer uses the TrailerTheme app icon.)
+Windows installer example: `TrailerTheme-Setup-1.1.0-win64.exe`
+
+In-app updates check this repository automatically.
+
+---
+
+## What’s new in 1.1.0 / Neu in 1.1.0
+
+| EN | DE |
+|----|----|
+| Open source / full version – no license key | Open Source / Vollversion – kein Lizenzschlüssel |
+| **Support** tab with optional PayPal donation | Tab **Support** mit optionaler PayPal-Spende |
+| TMDB ID resolve by title+year (no more `/movie/0`) | TMDB-ID per Titel+Jahr (kein `/movie/0` mehr) |
+| Optional Emby `ProviderIds.Tmdb` lookup | Optional Emby-Lookup über `ProviderIds.Tmdb` |
 
 ---
 
@@ -36,7 +54,7 @@ File name example: `TrailerTheme-Setup-1.0.0-win64.exe`
 | **Scanner** — scan movie/series folders, find & download trailers | **Scanner** — Medienordner scannen, Trailer finden und herunterladen |
 | **Theme Songs** — find intro/title themes as MP3 | **Theme-Songs** — Intro-/Titelsongs als MP3 speichern |
 | **Verification** — review downloads, confirm or replace | **Verifizierung** — Downloads prüfen, bestätigen oder ersetzen |
-| **Pro** — free trial quota, then lifetime or annual license | **Pro** — Free-Kontingent, danach Lifetime- oder Jahreslizenz |
+| **Support** — optional PayPal donation (fully free to use) | **Support** — optionale PayPal-Spende (App kostenlos nutzbar) |
 | **Settings** — language, quality, browser cookies, helper updates | **Einstellungen** — Sprache, Qualität, Browser/Cookies, Updates |
 
 ---
@@ -67,11 +85,11 @@ Gleiche Verifizierung für Theme-Songs.
 
 ![Theme-Verifizierung](screenshots/13-theme-verify.png)
 
-### Pro version / Pro-Version
-See free quota, buy Lifetime / Annual, activate license key.  
-Free-Kontingent sehen, Lifetime/Jahr kaufen, Lizenzschlüssel aktivieren.
+### Support / Spenden
+Optional donation via PayPal – all features are unlocked.  
+Optionale PayPal-Spende – alle Funktionen sind freigeschaltet.
 
-![Pro-Version](screenshots/14-pro.png)
+![Support](screenshots/14-pro.png)
 
 ### Settings / Einstellungen
 Language, resolution, Shield-friendly codecs, TMDb and more.  
@@ -87,7 +105,14 @@ Sprache, Auflösung, Shield-taugliche Codecs, TMDb und mehr.
 
 ---
 
-## Support
+## License / Lizenz
 
-Bugs or questions? Please open an **[Issue](https://github.com/Gembird79/TrailerTheme-Releases/issues)**.  
-Fehler oder Fragen? Bitte ein **[Issue](https://github.com/Gembird79/TrailerTheme-Releases/issues)** erstellen.
+**MIT** — free to use, share, and modify.  
+**MIT** — frei nutzbar, teilbar und änderbar.
+
+---
+
+## Support / Hilfe
+
+Bugs or questions? Please open an **[Issue](https://github.com/Gembird79/TrailerTheme-Trailer-and-Theme-Song-Downloader-for-Emby-Jellyfin-Plex-for-Windows/issues)**.  
+Fehler oder Fragen? Bitte ein **[Issue](https://github.com/Gembird79/TrailerTheme-Trailer-and-Theme-Song-Downloader-for-Emby-Jellyfin-Plex-for-Windows/issues)** erstellen.
